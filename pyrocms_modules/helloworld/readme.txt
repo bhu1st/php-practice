@@ -1,7 +1,7 @@
 /*
 * PyroCMS Helloworld module 
 * @Some Rights with Bhupal Sapkota
-* @link http://github.com/bhu1st/php-practice/pyrocms_modules
+* @link http://github.com/bhu1st/php-practice/tree/master/pyrocms_modules/helloworld
 * @author Bhupal Sapkota (sapkotabhupal@gmail.com)
 * @url http://bhu1st.blogspot.com labels: PHP, CodeIgniter, PyroCMS, Symfony
 * @remark please leave feedback on my blog if you like it.
