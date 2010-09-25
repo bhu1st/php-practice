@@ -16,11 +16,11 @@ PyroCMS Helloworld module
 [helloworld.zip] or [yourmodule.zip]
 5. If upload failed, delete raw upload from third_party modules folder, 
    database column if any, check your settings, check queries again, zip it, and re-upload. 
-5. If still couldn’t install it:
+5. If still could not install it:
 	--> i think you now understand the module creation flow
 	--> insert few queries in database  [details.xml]
 	-> add your module settings in modules table in database [details.xml]
-	-> don’t wait for any other documentation ;) the kickass CMS, created over the 
+	-> dont wait for any other documentation ;) the kickass CMS, created over the 
 	    kickass framework is really easy to grasp in one shot back tracing, 2-3 hours max  
 	-> hack it use it. contribute back if any.
 	-> if you are familiar with Codeigniter and not with HMVC 
